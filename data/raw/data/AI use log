@@ -1,1 +1,11 @@
+# AI Use Log 
+I used AI tools, including Claude, to understand the assignment requirements, organise my work into manageable steps, and plan the different stages of my project.
+I used  to help write code for loading the PDHS 2017–18 dataset, examining variables, checking missing values and duplicates, and performing data-cleaning tasks.
+
+Whenever I encountered unfamiliar commands or did not understand what a piece of code was doing, I asked AI to explain it in simpler terms so I could understand the purpose of each step.
+I used AI assistance to write code for generating graphs and visualisations to explore patterns in the data and compare different groups.I used AI to help develop code for checking duplicates, missing values, unusual values, variable units, and potential data-quality issues. I examined the outputs to understand the issues identified in the dataset.
+I used AI to help organise variable information into a data dictionary. I reviewed the variable labels and available outputs and added relevant explanations and caveats. I used AI assistance to develop code for exploratory analysis, including charts, group comparisons, and a confounder check. I also sought explanations to better understand the methods and findings.
+
+I used AI for guidance on organising my GitHub repository, documenting the data source, and maintaining project files in a structured and reproducible manner.
+Whenever I was confused about a result or analytical step, I used AI as a learning aid to clarify the concepts. I compared explanations with my own outputs and notes where applicable and take responsibility for ensuring that the final reported results accurately reflect the evidence.
 
